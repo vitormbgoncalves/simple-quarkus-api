@@ -26,7 +26,7 @@ The code consists of Rest Web Services built with Quarkus and MySQL. This servic
 - [**MySQL**](https://www.mysql.com/) - for database;
 - [**JUnit 5**](https://junit.org/junit5/docs/current/user-guide/) - for testing;
 - [**Testcontainers**](https://www.testcontainers.org/) - for run test dependencies in Docker container;
-- [**Heroku**](https://heroku.co) - for deployment and production testing;
+- [**Heroku**](https://heroku.co) - for deployment and production testing.
 
 ## 📀 Running
 
